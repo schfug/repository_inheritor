@@ -1,0 +1,18 @@
+{
+    "name": "schfug/repository_inheritor",
+    "description": "This plugin extends composer to inherit specified repositories",
+    "type": "composer-plugin",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Max Schorradt",
+            "email": "mechtecs@gmail.com"
+        },
+        {
+          "name": "Sascha Hannes",
+          "email": "saschahannes@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
